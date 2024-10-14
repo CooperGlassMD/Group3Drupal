@@ -1,0 +1,8 @@
+name: 'OpenSeadragon Viewer'
+type: module
+description: 'A light-weight, customizable OpenSeadragon field formatter'
+package: Media
+core_version_requirement: ^9.1 || ^10
+dependencies:
+  - token:token
+configure: openseadragon.admin_settings

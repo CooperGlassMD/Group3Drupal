@@ -1,0 +1,9 @@
+{
+  "name": "geolocation-geocodio",
+  "license": "GPL-2.0",
+  "description": "Geolocation geocodio module",
+  "private": true,
+  "dependencies": {
+    "geolocation-geocodio": "file:"
+  }
+}
